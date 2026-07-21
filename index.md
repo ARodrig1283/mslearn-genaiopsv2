@@ -4,6 +4,8 @@ permalink: index.html
 layout: home
 ---
 
+# Update Trigger Action
+
 # GenAI Operations (GenAIOps) Workload Labs
 
 The following hands-on exercises provide practical experience with GenAI Operations patterns and practices. You'll learn to deploy infrastructure, manage prompts, implement evaluation workflows, and monitor production GenAI applications using Microsoft Foundry and Azure services.
